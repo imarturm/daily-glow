@@ -20,63 +20,59 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Artur                              
-your_link                                 : https://imarturm.github.io/daily-glow/                     
+your_name                                 :                               
+your_link                                 :                   
 your_city                                 :                               
 email_address                             : letsteambanana@gmail.com
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         :                                           
-instagram_username                        :
+instagram_username                        : dailyglowapp
 twitter_username                          :
-github_username                           : imarturm
-youtube_username                          :
+github_username                           : 
+youtube_username                          : dailyglowapp
 mastodon_link                             :
 
 
 
-# Feature List                            Edit, add or remove features to be presented.
-features                                  :
+# Feature List
+features:
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : AI Facial Analysis
+    description                           : Upload a photo for a deep dive into your features. Get instant insights on your face shape, skin type, and symmetry.
+    fontawesome_icon_name                 : scan
+
+  - title                                 : Personalized Aesthetic Plans
+    description                           : Whether it's Clean Girl, Cottagecore, or a Custom look, we build a sustainable routine to match your dream aesthetic.
     fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Data-Driven Glow Scores
+    description                           : Track your progress with detailed scores for skin quality, hair health, and contour, including percentile comparisons.
+    fontawesome_icon_name                 : chart-line
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Daily Glow Tasks
+    description                           : Stay consistent with curated daily tasks covering skincare, fitness, mindset, and style tips tailored to your goals.
+    fontawesome_icon_name                 : check-circle
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : AI Beauty Coach
+    description                           : Access a 24/7 AI coach and a vast learning library to guide you through your full transformation journey.
+    fontawesome_icon_name                 : sparkle
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Progress Tracking
+    description                           : Visualize your evolution with streak tracking, activity charts, and side-by-side progress picture galleries.
+    fontawesome_icon_name                 : calendar-alt
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Virtual Try-On Lab
+    description                           : Experiment with hair and makeup try-ons, or use the "You as a 10/10" filter to see your ultimate potential.
+    fontawesome_icon_name                 : smile-beam
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Smart Reminders
+    description                           : Build lasting habits with helpful notifications that keep you on track even when life gets busy.
+    fontawesome_icon_name                 : bell
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Science-Backed Guidance
+    description                           : Your custom plan isn't just pretty—it's backed by dermatology and peer-reviewed research for real results.
+    fontawesome_icon_name                 : microscope
 
 
 
@@ -86,14 +82,14 @@ topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_overlay_color                       : "#fabbc3"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#fabbc3"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -102,7 +98,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#fabbc3"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
