@@ -43,12 +43,19 @@ We do **not** sell, rent, or share your personal data for advertising or trackin
 - This data is **not tied to individual users** and cannot be used to identify you.
 
 ### 2.2 Third Parties we work with
-| Third Party | Purpose |
-|------------|---------|
-| Apple Sign-In | Secure account authentication |
-| Google Sign-In | Secure account authentication |
-| Google Gemini API | Facial and skin analysis processing |
-| Firebase Analytics | Anonymous app usage insights |
+Daily Glow uses a small number of trusted third-party services strictly for core app functionality:
+
+- **Apple Sign-In**  
+  Used to securely authenticate users and create accounts.
+
+- **Google Sign-In**  
+  Used to securely authenticate users and create accounts.
+
+- **Google Gemini API**  
+  Used to process photos for facial and skin analysis. Photos are processed temporarily and are not stored or linked to user identities.
+
+- **Firebase Analytics**  
+  Used to collect anonymized, non-identifiable usage data to improve onboarding and app performance.
 
 <br>
 
