@@ -40,10 +40,10 @@ features:
 
   - title                                 : AI Facial Analysis
     description                           : Upload a photo for a deep dive into your features. Get instant insights on your face shape, skin type, and symmetry.
-    fontawesome_icon_name                 : scan
+    fontawesome_icon_name                 : barcode-read
 
   - title                                 : Personalized Aesthetic Plans
-    description                           : Whether it's Clean Girl, Cottagecore, or a Custom look, we build a sustainable routine to match your dream aesthetic.
+    description                           : You choose your custom look, we build a sustainable routine to match your dream aesthetic.
     fontawesome_icon_name                 : magic
 
   - title                                 : Data-Driven Glow Scores
@@ -55,15 +55,15 @@ features:
     fontawesome_icon_name                 : check-circle
 
   - title                                 : AI Beauty Coach
-    description                           : Access a 24/7 AI coach and a vast learning library to guide you through your full transformation journey.
-    fontawesome_icon_name                 : sparkle
+    description                           : Access an AI coach and a vast learning library to guide you through your full transformation journey.
+    fontawesome_icon_name                 : sparkles
 
   - title                                 : Progress Tracking
-    description                           : Visualize your evolution with streak tracking, activity charts, and side-by-side progress picture galleries.
+    description                           : Visualize your evolution with streak tracking, activity charts, and picture galleries.
     fontawesome_icon_name                 : calendar-alt
 
   - title                                 : Virtual Try-On Lab
-    description                           : Experiment with hair and makeup try-ons, or use the "You as a 10/10" filter to see your ultimate potential.
+    description                           : Experiment with hair and makeup try-ons, or use filters to see your ultimate potential.
     fontawesome_icon_name                 : smile-beam
 
   - title                                 : Smart Reminders
@@ -71,7 +71,7 @@ features:
     fontawesome_icon_name                 : bell
 
   - title                                 : Science-Backed Guidance
-    description                           : Your custom plan isn't just pretty—it's backed by dermatology and peer-reviewed research for real results.
+    description                           : Your custom plan is backed by dermatology and peer-reviewed research for real results.
     fontawesome_icon_name                 : microscope
 
 
